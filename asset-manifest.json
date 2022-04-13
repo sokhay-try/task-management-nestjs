@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://sokhay-try.github.io/task-management-nestjs/static/css/main.221589fe.chunk.css",
+    "main.js": "https://sokhay-try.github.io/task-management-nestjs/static/js/main.d67461e6.chunk.js",
+    "main.js.map": "https://sokhay-try.github.io/task-management-nestjs/static/js/main.d67461e6.chunk.js.map",
+    "runtime~main.js": "https://sokhay-try.github.io/task-management-nestjs/static/js/runtime~main.123aa176.js",
+    "runtime~main.js.map": "https://sokhay-try.github.io/task-management-nestjs/static/js/runtime~main.123aa176.js.map",
+    "static/js/2.5aec08c2.chunk.js": "https://sokhay-try.github.io/task-management-nestjs/static/js/2.5aec08c2.chunk.js",
+    "static/js/2.5aec08c2.chunk.js.map": "https://sokhay-try.github.io/task-management-nestjs/static/js/2.5aec08c2.chunk.js.map",
+    "index.html": "https://sokhay-try.github.io/task-management-nestjs/index.html",
+    "precache-manifest.04ef27cda4c9b4d341a10a45ee1520f6.js": "https://sokhay-try.github.io/task-management-nestjs/precache-manifest.04ef27cda4c9b4d341a10a45ee1520f6.js",
+    "service-worker.js": "https://sokhay-try.github.io/task-management-nestjs/service-worker.js",
+    "static/css/main.221589fe.chunk.css.map": "https://sokhay-try.github.io/task-management-nestjs/static/css/main.221589fe.chunk.css.map"
+  }
+}
